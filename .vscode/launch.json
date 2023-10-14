@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Berna/Desktop/Udemy/UdemyCpp/02_Basics/2_2",
-      "program": "c:/Users/Berna/Desktop/Udemy/UdemyCpp/02_Basics/2_2/build/Debug/outDebug",
+      "cwd": "c:/Users/Berna/Desktop/Udemy/UdemyCpp/03_ArrayPointer/3_3",
+      "program": "c:/Users/Berna/Desktop/Udemy/UdemyCpp/03_ArrayPointer/3_3/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

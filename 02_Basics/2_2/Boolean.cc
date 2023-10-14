@@ -14,5 +14,6 @@ int main()
     bool check = !((number >= 0) && (number <= 10));
     std::cout << "Check: " << std::boolalpha << check << std::endl;
 
+
     return 0;
 }

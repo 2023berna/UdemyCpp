@@ -5,6 +5,9 @@ int main()
     const char first_name[] = {'J', 'a', 'n', '\0'};
     std::cout << first_name << '\n';
 
+    // am ende von schaffranek ist ein \0 was das ende des chars ankündigt
+    // \0 wird im letzten index com array gespeichert
+    //sizeof(array)
     char last_name[] = "Schaffranek";
     std::cout << last_name << '\n';
 
